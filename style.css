@@ -1,0 +1,82 @@
+.main
+{
+    padding: 0%;
+    margin: 0%;
+}
+.main
+{
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+}
+.main a
+{
+    display: flex;
+text-align: center;
+justify-content: center;
+color: orangered;
+}
+.main h1
+{
+    text-align: center;
+    font-size: 25px;
+}
+.main h4
+{
+    padding-top: 25px;
+    color: orangered;
+    text-align: center;
+}
+.main h3
+{
+    text-align: center;
+    color: rgb(132, 128, 128);
+}
+.subsec-1,.subsec-2,.subsec-3,.subsec-4,.subsec-5,.subsec-6,.subsec-7,.subsec-8,.subsec-9,.subsec-10
+{
+
+font-size: 30px;
+
+}
+
+.subsec-3 ul
+{
+    list-style-type: square;
+}
+.subsec-4 i,b
+{
+padding-top: 20px;
+}
+.subsec-6 ul
+{
+    list-style-type: square;
+}
+.subsec-9 i
+{
+padding-top: 25px;
+}
+.section-1
+{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    border-left: 50px;
+    border-right: 50px;
+    
+}
+.subsec-9 b
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.subsec-7 a{
+    color: rgb(157, 21, 66);
+}
+.subsec-9 a{
+    color: rgb(160, 25, 48);
+}
